@@ -1,4 +1,4 @@
-//#ENJOY BRO😍
+non//#ENJOY BRO😍
 // Credit: 𝑫𝑹𝑲-𝑹𝑨𝑮𝑵𝑨 by      𝙎-𝙏𝞢𝞜
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
